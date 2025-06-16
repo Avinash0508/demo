@@ -1,2 +1,3 @@
 # demo
-This is my learning
+This are my learnings
+Author - Avinash
